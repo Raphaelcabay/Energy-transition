@@ -1,4 +1,2 @@
 The code is currently solving the models with highs, as gurobi is having some problems. 
 Strangly, we have different results when we use different solvers, which is not normal as it should be the optimal solution which is unique.
-
-This code was done mainly by Raphael and Guillaume, with help from Alexis and Ishak.
