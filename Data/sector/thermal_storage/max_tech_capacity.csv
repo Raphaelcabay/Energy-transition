@@ -1,0 +1,11 @@
+﻿Technologies,TFO,Dupere,Overdale,Hochelaga,Anjou,Heat,Cold
+Wind,100,0,0,0,0,0,0
+PV,0,5,5,5,5,0,0
+Biomass,1,0,0,0,0,0,0
+Hydro, 1,0,0,0,0,0,0
+HP,1000,0,0,0,0,1000,1000
+Pumped_Hydro,58,0,0,0,0,0,0
+Batteries,10,10,10,10,10,0,0
+Hot_Water_Tank,0,0,0,0,0,20,0
+Molten_Salt,0,0,0,0,0,100,0
+Chilled_Water_Storage,0,0,0,0,0,0,15
